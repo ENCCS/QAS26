@@ -1,20 +1,44 @@
-# LESSON NAME
+# Quantum Autumn School 2026
 
-Intro
+Wellcome to 2026 edition of the Quantum Autumn School! This year we have a couple of differences with respect to previous editions. The first and most important is that the school will be held **in-person only**.
+
+:::{admonition} Important information
+:class: important
+Dates: November 2nd to 4th 2026
+Place: Stockholm, Sweden. 
+Room: Innoversum.
+Hotel suggestion: [Elite Hotel Arcadia](https://www.elite.se/hotell/stockholm/elite-hotel-arcadia-stockholm/)
+
+In order to do the exercises and practice is important to **bring a laptop**
+:::
 
 :::{prereq}
 
-- FIXME
-- ...
-- ...
-  :::
+- Knowlegde of the Python programming language.
+- Knowlegde of linear algebra.
+- Own laptop
+- A bit of motivation :)
+:::
 
-```{csv-table}
-:delim: ;
-:widths: auto
+.. csv-table:: QUANTUM AUTUMN SCHOOL 2026
+   :header: "Time", "Monday 2nd November (Basics)", "Tuesday 3rd November (Intermediate)", "Wednesday 4th November (Advanced)"
+   :widths: 15, 30, 30, 30
 
-20 min ; {doc}`filename`
-```
+   "9:00 - 9:10", "Quantum Computing in RISE and Sweden.", "Introduction to quantum algorithms I - The quantum phase estimation", ": Applications of Quantum Computing I: Quantum Chemistry"
+   "9:10 - 9:20", "QSTAR", "", ""
+   "9:20 - 09:30", "Nordiquest", "", ""
+   "09:30 - 09:40", "Nordic Quantum", "", ""
+   "09:40 - 09:50", "ENCCS and EuroHPC", "", ""
+   "09:50 - 10:00", "Introduction to the School", "", ""
+   "10:00 - 10:10", "Break", "", ""
+   "10:10 - 11:00", "Introduction to quantum computing I - Basic concepts", "Introduction to quantum algorithms II - Variational quantum algorithms part 1: VQE", "Applications of Quantum Computing II: Quantum Machine Learning"
+   "11:00 - 11:10", "Break", "", ""
+   "11:10 - 12:00", "Introduction to quantum computing II - Hardware implementation", "Introduction to quantum algorithms III - Variational quantum algorithms part 2: QAOA", "Applications of Quantum Computing III: Cryptography"
+   "12:00 - 13:00", "Lunch", "", ""
+   "13:00 - 13:50", "Introduction to Quantum computing III - Basics on quantum algorithms", "Introduction to Quantum Cryptography", "Compression, obfuscation and applications in cryptography."
+   "13:50 - 14:00", "Break", "", ""
+   "14:00 - 15:30", "Practicing on the basic concepts: Building your own quantum computer in Python + Testing algorithms", "Practicing on algorithms: Hamiltonian simulation", "Practicing on applications in a real quantum computer in working groups"
+   "15:30 - 16:30", "Visit to the KTH fridge to see a quantum computer", "Demo on sending encrypted messages with QKD", "Closing of the school and introduction to the Hackathon."
 
 ```{toctree}
 :caption: The lesson
@@ -30,27 +54,85 @@ episode.md
 quick-reference
 guide
 ```
+## Partners & organizers
 
-## Learning outcomes
+This school is organized by EuroCC competence centres of Sweden ENCCS in collaboration with EuroCC Denmark and EuroCC Lithuania. And supported by WACQT, a national research programme, coordinated from Chalmers, that aims to take Swedish research and industry to the forefront of quantum technology.
 
-FIXME
+![ENCCS](img/QAS26.jpg)
 
-This material is for ...
+## Registration & logistics
 
-By the end of this module, learners should:
+:::{important}
 
-- ...
-- ...
+- 📋 **[Register Now](https://enccs.se/event/quantum-computing-school-2026-in-sweden/)**
+- **Capacity**: Limited to ensure quality interaction
+- **Format**: In-person event in Stockholm with zoom link (to be distributed)
+:::
 
-## See also
+### Venue
 
-:::{admonition} Credit
-:class: warning
+The Quantum Autumn School 2026 will be held in Stockholm, Sweden. Detailed address and directions have been shared via email with registered participants.
 
-FIXME
+### Accommodation
 
-Don't forget to check out additional course materials from ...
+There are multiple hotels in the vicinity. Below you can find some hotels in order of proximity:
 
+- **[Elite Hotel Arcadia Stockholm](https://www.elite.se/hotell/stockholm/elite-hotel-arcadia-stockholm/?utm_source=google&utm_medium=organic&utm_campaign=google-local&utm_content=stockholm_arcadia)**
+- **[Hotel Ruth](https://www.hotelruth.se/)**
+- **[Scandic Park](https://www.scandichotels.com/en/hotels/scandic-park)**
+
+
+### Public transport
+
+Download the public transport app to purchase tickets:
+- **[iOS App Store](https://apps.apple.com/se/app/sl-biljetter/id918418291)**
+- **[Google Play](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter)**
+
+**Ticket Options:**
+- Single journey ticket
+- 24-hour ticket  
+- 72-hour ticket
+
+You can also use your regular credit card by scanning it on the metro and all buses. **[More information about contactless payments](https://sl.se/en/in-english/fares--tickets/contactless-pay-as-you-go)**.
+
+**From Arlanda Airport:**
+- Take a taxi
+- **[Arlanda Express](https://www.arlandaexpress.com/)** - fast train (20 minutes to T-Centralen)
+- Flygbussarna - airport bus (approximately 45 minutes to T-Centralen)
+
+---
+
+## About ENCCS
+
+![ENCCS](img/ENCCS-erbjudande.png)
+
+The EuroHPC Centre of Excellence in Computing Applications (ENCCS) develops and optimizes computational applications for current and upcoming exascale systems. We provide training, support, and expertise in high-performance computing and emerging technologies like quantum computing.
+
+:::{seealso}
+**Learn More**
+- [ENCCS Website](https://enccs.se)
+:::
+
+---
+
+# Let's stay connected
+
+:::{admonition} Join our community and stay updated!
+:class: tip
+
+Stay in the loop with ENCCS for updates, training opportunities, and news about connecting HPC, AI, and quantum computing!
+
+**🌐 Visit our website:**
+- **[ENCCS Website](https://enccs.se/)** - HPC services, on-boarding, training courses, webinars, tutorials, blog posts, and upcoming events
+
+**📧 Subscribe to our newsletter:**
+- **[ENCCS Newsletter](https://enccs.se/newsletter)** - Get monthly updates delivered to your inbox
+
+**💬 Follow us on social media:**
+- **[LinkedIn](https://www.linkedin.com/company/enccs/posts)** - Latest news, events, and professional updates
+- **[YouTube](https://www.youtube.com/@enccs)** - Tutorials, webinars, and educational content
+
+Stay connected with the European quantum computing community!
 :::
 
 ::::{admonition} License
@@ -59,7 +141,7 @@ Don't forget to check out additional course materials from ...
 :::{admonition} CC BY-SA for media and pedagogical material
 :class: attention dropdown
 
-Copyright © 2025 XXX. This material is released by XXX under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Copyright © 2026 Juan de Gracia. This material is released by Juan de Gracia under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 **Canonical URL**: <https://creativecommons.org/licenses/by-sa/4.0/>
 
@@ -92,7 +174,7 @@ This deed highlights only some of the key features and terms of the actual licen
 
 MIT License
 
-Copyright (c) 2025, ENCCS project, {{ author }}
+Copyright (c) 2026, ENCCS project, {{ author }}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

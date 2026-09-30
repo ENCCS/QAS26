@@ -14,10 +14,10 @@
 # -- Project information -----------------------------------------------------
 
 # FIXME: choose title
-project = "Your lesson name"
+project = "Quantum Autumn School 2026"
 # FIXME: insert correct author
-author = "The contributors"
-copyright = f"2025, ENCCS, {author}"
+author = "Juan de Gracia"
+copyright = f"2026, ENCCS, {author}"
 
 # FIXME: github organization / user that the repository belongs to
 github_user = "ENCCS"
