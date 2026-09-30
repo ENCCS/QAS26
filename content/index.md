@@ -22,7 +22,6 @@ In order to do the exercises and practice is important to **bring a laptop**
 
 ### Schedule
 
-```markdown
 | Time | Monday 2nd November (Basics) | Tuesday 3rd November (Intermediate) | Wednesday 4th November (Advanced) |
 | :--- | :--- | :--- | :--- |
 | 9:00 - 9:10 | Quantum Computing in RISE and Sweden. | Introduction to quantum algorithms I - The quantum phase estimation | Applications of Quantum Computing I: Quantum Chemistry |
