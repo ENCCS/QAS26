@@ -38,7 +38,7 @@ In order to do the exercises and practice is important to **bring a laptop**
 | **12:00 - 13:00** | Lunch |
 | **13:00 - 13:50** | Introduction to Quantum computing III - Basics on quantum algorithms |
 | **13:50 - 14:00** | Break |
-| **14:00 - 15:30** | Practicing on the basic concepts: Building your own quantum computer in Python + Testing algorithms |
+| **14:00 - 15:30** | Building your own quantum computer in Python |
 | **15:30 - 16:30** | Visit to the KTH fridge to see a quantum computer |
 
 ### Tuesday 3rd November — Intermediate
@@ -71,20 +71,24 @@ In order to do the exercises and practice is important to **bring a laptop**
 | **14:00 - 15:30** | Practicing on applications in a real quantum computer in working groups |
 | **15:30 - 16:30** | Closing of the school and introduction to the Hackathon. |
 
+## Lesson materials
+The lesson materials for every day in the school will be uploaded here.
+
 ```{toctree}
-:caption: The lesson
+:caption: Materials
 :maxdepth: 1
 
 episode.md
 ```
 
-```{toctree}
-:caption: Reference
-:maxdepth: 1
+## Useful references
+We will be using Qrisp as the python library for exercises and the IQM Resonance platform. IQM also provides useful tutorials for learning.
+- [Qrisp library](https://qrisp.eu)
+- [IQM Academy](https://www.iqmacademy.com)
+- [IQM Resonance](https://iqm.tech/products/iqm-resonance/)
 
-quick-reference
-guide
-```
+A lot of materials can be found in the webpage of the [Quantum Autumn School 2025](https://enccs.github.io/qas2025/).
+
 ## Partners & organizers
 
 This school is organized by EuroCC competence centres of Sweden ENCCS in collaboration with QSTAR Center for Quantum Computing and Applications, Linköping University, Nordiquest, IQM, Nordic Quantum, QMill and QSIP.
@@ -96,13 +100,13 @@ This school is organized by EuroCC competence centres of Sweden ENCCS in collabo
 :::{important}
 
 - 📋 **[Register Now](https://enccs.se/event/quantum-computing-school-2026-in-sweden/)**
-- **Capacity**: Limited to ensure quality interaction
-- **Format**: In-person event in Stockholm with zoom link (to be distributed)
+- **Capacity**: Maximum 80 people.
+- **Format**: **In-person only** event in Stockholm.
 :::
 
 ### Venue
 
-The Quantum Autumn School 2026 will be held in Stockholm, Sweden. Detailed address and directions have been shared via email with registered participants.
+The Quantum Autumn School 2026 will be held in Stockholm, Sweden. Detailed address and directions will be shared via email with registered participants.
 
 ### Accommodation
 
@@ -165,66 +169,3 @@ Stay in the loop with ENCCS for updates, training opportunities, and news about 
 
 Stay connected with the European quantum computing community!
 :::
-
-::::{admonition} License
-:class: attention
-
-:::{admonition} CC BY-SA for media and pedagogical material
-:class: attention dropdown
-
-Copyright © 2026 Juan de Gracia. This material is released by Juan de Gracia under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-
-**Canonical URL**: <https://creativecommons.org/licenses/by-sa/4.0/>
-
-[See the legal code](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
-
-## You are free to
-
-1. **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
-2. **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-3. The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-## Under the following terms
-
-1. **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by-sa/4.0/#ref-appropriate-credit) , provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-sa/4.0/#ref-indicate-changes) . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-2. **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-sa/4.0/#ref-same-license) as the original.
-3. **No additional restrictions** — You may not apply legal terms or [technological measures](https://creativecommons.org/licenses/by-sa/4.0/#ref-technological-measures) that legally restrict others from doing anything the license permits.
-
-## Notices
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable [exception or limitation](https://creativecommons.org/licenses/by/4.0/deed.en#ref-exception-or-limitation) .
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as [publicity, privacy, or moral rights](https://creativecommons.org/licenses/by/4.0/deed.en#ref-publicity-privacy-or-moral-rights) may limit how you use the material.
-
-This deed highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license before using the licensed material.
-
-:::
-
-:::{admonition} MIT for source code and code snippets
-:class: attention dropdown
-
-MIT License
-
-Copyright (c) 2026, ENCCS project, {{ author }}
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-:::
-
-::::
