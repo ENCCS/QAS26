@@ -4,10 +4,8 @@ Wellcome to 2026 edition of the Quantum Autumn School! This year we have a coupl
 
 :::{admonition} Important information
 :class: important
-Dates: November 2nd to 4th 2026
-Place: Stockholm, Sweden. 
-Room: Innoversum.
-Hotel suggestion: [Elite Hotel Arcadia](https://www.elite.se/hotell/stockholm/elite-hotel-arcadia-stockholm/)
+- Dates: November 2nd to 4th 2026 
+- Place: Stockholm, Sweden. The exact venue will be sent by email to the accepted participants.
 
 In order to do the exercises and practice is important to **bring a laptop**
 :::
@@ -20,26 +18,28 @@ In order to do the exercises and practice is important to **bring a laptop**
 - A bit of motivation :)
 :::
 
-```{csv-table} QUANTUM AUTUMN SCHOOL 2026
-:header: "Time", "Monday 2nd November (Basics)", "Tuesday 3rd November (Intermediate)", "Wednesday 4th November (Advanced)"
-:widths: auto
-:delim: ;
+---
 
-"9:00 - 9:10" ; "Quantum Computing in RISE and Sweden." ; "Introduction to quantum algorithms I - The quantum phase estimation" ; "Applications of Quantum Computing I: Quantum Chemistry"
-"9:10 - 9:20" ; "QSTAR" ; "" ; ""
-"9:20 - 09:30" ; "Nordiquest" ; "" ; ""
-"09:30 - 09:40" ; "Nordic Quantum" ; "" ; ""
-"09:40 - 09:50" ; "ENCCS and EuroHPC" ; "" ; ""
-"09:50 - 10:00" ; "Introduction to the School" ; "" ; ""
-"10:00 - 10:10" ; "Break" ; "" ; ""
-"10:10 - 11:00" ; "Introduction to quantum computing I - Basic concepts" ; "Introduction to quantum algorithms II - Variational quantum algorithms part 1: VQE" ; "Applications of Quantum Computing II: Quantum Machine Learning"
-"11:00 - 11:10" ; "Break" ; "" ; ""
-"11:10 - 12:00" ; "Introduction to quantum computing II - Hardware implementation" ; "Introduction to quantum algorithms III - Variational quantum algorithms part 2: QAOA" ; "Applications of Quantum Computing III: Cryptography"
-"12:00 - 13:00" ; "Lunch" ; "" ; ""
-"13:00 - 13:50" ; "Introduction to Quantum computing III - Basics on quantum algorithms" ; "Introduction to Quantum Cryptography" ; "Compression, obfuscation and applications in cryptography."
-"13:50 - 14:00" ; "Break" ; "" ; ""
-"14:00 - 15:30" ; "Practicing on the basic concepts: Building your own quantum computer in Python + Testing algorithms" ; "Practicing on algorithms: Hamiltonian simulation" ; "Practicing on applications in a real quantum computer in working groups"
-"15:30 - 16:30" ; "Visit to the KTH fridge to see a quantum computer" ; "Demo on sending encrypted messages with QKD" ; "Closing of the school and introduction to the Hackathon."
+### Schedule
+
+```markdown
+| Time | Monday 2nd November (Basics) | Tuesday 3rd November (Intermediate) | Wednesday 4th November (Advanced) |
+| :--- | :--- | :--- | :--- |
+| 9:00 - 9:10 | Quantum Computing in RISE and Sweden. | Introduction to quantum algorithms I - The quantum phase estimation | Applications of Quantum Computing I: Quantum Chemistry |
+| 9:10 - 9:20 | QSTAR | | |
+| 9:20 - 09:30 | Nordiquest | | |
+| 09:30 - 09:40 | Nordic Quantum | | |
+| 09:40 - 09:50 | ENCCS and EuroHPC | | |
+| 09:50 - 10:00 | Introduction to the School | | |
+| 10:00 - 10:10 | Break | | |
+| 10:10 - 11:00 | Introduction to quantum computing I - Basic concepts | Introduction to quantum algorithms II - Variational quantum algorithms part 1: VQE | Applications of Quantum Computing II: Quantum Machine Learning |
+| 11:00 - 11:10 | Break | | |
+| 11:10 - 12:00 | Introduction to quantum computing II - Hardware implementation | Introduction to quantum algorithms III - Variational quantum algorithms part 2: QAOA | Applications of Quantum Computing III: Cryptography |
+| 12:00 - 13:00 | Lunch | | |
+| 13:00 - 13:50 | Introduction to Quantum computing III - Basics on quantum algorithms | Introduction to Quantum Cryptography | Compression, obfuscation and applications in cryptography. |
+| 13:50 - 14:00 | Break | | |
+| 14:00 - 15:30 | Practicing on the basic concepts: Building your own quantum computer in Python + Testing algorithms | Practicing on algorithms: Hamiltonian simulation | Practicing on applications in a real quantum computer in working groups |
+| 15:30 - 16:30 | Visit to the KTH fridge to see a quantum computer | Demo on sending encrypted messages with QKD | Closing of the school and introduction to the Hackathon. |
 
 ```{toctree}
 :caption: The lesson
