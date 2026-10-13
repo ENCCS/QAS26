@@ -92,8 +92,8 @@ A lot of materials can be found in the webpage of the [Quantum Autumn School 202
 ## Partners & organizers
 
 This school is organized by EuroCC competence centres of Sweden [ENCCS](https://enccs.se) in collaboration with 
-- [QSTAR](https://qstar-centre.no) Center for Quantum Computing and Applications
-- [Linköping University] (https://liu.se)
+- [QSTAR Center for Quantum Computing and Applications](https://qstar-centre.no) 
+- [Linköping University](https://liu.se)
 - [Nordiquest](https://nordiquest.net) 
 - [IQM](https://iqm.tech)
 - [Nordic Quantum](https://nordita.org/nordic-quantum/)
