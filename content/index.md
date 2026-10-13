@@ -64,9 +64,9 @@ In order to do the exercises and practice is important to **bring a laptop**
 | **10:00 - 10:10** | Break |
 | **10:10 - 11:00** | Applications of Quantum Computing II: Quantum Machine Learning |
 | **11:00 - 11:10** | Break |
-| **11:10 - 12:00** | Applications of Quantum Computing III: Cryptography |
+| **11:10 - 12:00** | Applications of Quantum Computing III: Implementation issues of QML |
 | **12:00 - 13:00** | Lunch |
-| **13:00 - 13:50** | Compression, obfuscation and applications in cryptography. |
+| **13:00 - 13:50** | Applications of Quantum Computing IV: Cryptography |
 | **13:50 - 14:00** | Break |
 | **14:00 - 15:30** | Practicing on applications in a real quantum computer in working groups |
 | **15:30 - 16:30** | Closing of the school and introduction to the Hackathon. |
@@ -91,9 +91,16 @@ A lot of materials can be found in the webpage of the [Quantum Autumn School 202
 
 ## Partners & organizers
 
-This school is organized by EuroCC competence centres of Sweden ENCCS in collaboration with QSTAR Center for Quantum Computing and Applications, Linköping University, Nordiquest, IQM, Nordic Quantum, QMill and QSIP.
+This school is organized by EuroCC competence centres of Sweden [ENCCS](https://enccs.se) in collaboration with 
+- [QSTAR](https://qstar-centre.no) Center for Quantum Computing and Applications
+- [Linköping University] (https://liu.se)
+- [Nordiquest](https://nordiquest.net) 
+- [IQM](https://iqm.tech)
+- [Nordic Quantum](https://nordita.org/nordic-quantum/)
+- [QuTwo](https://www.qutwo.com)
+- [QSIP](https://qsip.se)
 
-![ENCCS](img/QAS26.jpg)
+![QASBanner](img/QAS.jpeg)
 
 ## Registration & logistics
 
