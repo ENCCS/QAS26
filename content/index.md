@@ -5,9 +5,10 @@ Wellcome to 2026 edition of the Quantum Autumn School! This year we have a coupl
 :::{admonition} Important information
 :class: important
 - Dates: November 2nd to 4th 2026 
-- Place: Stockholm, Sweden. The exact venue will be sent by email to the accepted participants.
+- Place: Drottning Kristinas väg 61, 114 28 Stockholm, Sweden
 
 In order to do the exercises and practice is important to **bring a laptop**
+A **notebook** or pen and paper is recommended.
 :::
 
 :::{prereq}
@@ -113,7 +114,8 @@ This school is organized by EuroCC competence centres of Sweden [ENCCS](https://
 
 ### Venue
 
-The Quantum Autumn School 2026 will be held in Stockholm, Sweden. Detailed address and directions will be shared via email with registered participants.
+The Quantum Autumn School 2026 will be held in Stockholm, Sweden, in the RISE offices at the KTH campus.
+Drottning Kristinas väg 61, 114 28 Stockholm.
 
 ### Accommodation
 
