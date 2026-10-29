@@ -26,32 +26,31 @@ A **notebook** or pen and paper is recommended.
 
 | Time | Session / Topic |
 | :--- | :--- |
-| **09:00 - 09:10** | Quantum Computing in RISE and Sweden. |
-| **09:10 - 09:20** | QSTAR |
+| **09:00 - 09:10** | Quantum Computing activities in RISE|
+| **09:10 - 09:20** | QSTAR Center for Quantum Computing and Applications in Norway|
 | **09:20 - 09:30** | Nordiquest |
 | **09:30 - 09:40** | Nordic Quantum |
 | **09:40 - 09:50** | ENCCS and EuroHPC |
-| **09:50 - 10:00** | Introduction to the School |
-| **10:00 - 10:10** | Break |
-| **10:10 - 11:00** | Introduction to quantum computing I - Basic concepts |
-| **11:00 - 11:10** | Break |
-| **11:10 - 12:00** | Introduction to quantum computing II - Hardware implementation |
-| **12:00 - 13:00** | Lunch |
+| **09:50 - 10:00** | Break |
+| **10:00 - 10:50** | Introduction to quantum computing I - Basic concepts |
+| **10:50 - 12:00** | Lunch at Taste|
+| **12:00 - 12:50** | Introduction to quantum computing II - Hardware implementation |
+| **12:50 - 13:00** | Break |
 | **13:00 - 13:50** | Introduction to Quantum computing III - Basics on quantum algorithms |
 | **13:50 - 14:00** | Break |
-| **14:00 - 15:30** | Building your own quantum computer in Python |
+| **14:00 - 15:30** | Building your own quantum computer simulator in Python |
 | **15:30 - 16:30** | Visit to the KTH fridge to see a quantum computer |
 
 ### Tuesday 3rd November — Intermediate
 
 | Time | Session / Topic |
 | :--- | :--- |
-| **09:00 - 10:00** | Introduction to quantum algorithms I - The quantum phase estimation |
-| **10:00 - 10:10** | Break |
-| **10:10 - 11:00** | Introduction to quantum algorithms II - Variational quantum algorithms part 1: VQE |
-| **11:00 - 11:10** | Break |
-| **11:10 - 12:00** | Introduction to quantum algorithms III - Variational quantum algorithms part 2: QAOA |
-| **12:00 - 13:00** | Lunch |
+| **09:00 - 09:50** | Introduction to quantum algorithms I - The quantum phase estimation |
+| **09:50 - 10:00** | Break |
+| **10:00 - 10:50** | Introduction to quantum algorithms II - Variational quantum algorithms part 1: VQE |
+| **10:50 - 12:00** | Lunch at Taste |
+| **12:00 - 12:50** | Introduction to quantum algorithms III - Variational quantum algorithms part 2: QAOA |
+| **12:50 - 13:00** | Break |
 | **13:00 - 13:50** | Introduction to Quantum Cryptography |
 | **13:50 - 14:00** | Break |
 | **14:00 - 15:30** | Practicing on algorithms: Hamiltonian simulation |
@@ -61,12 +60,12 @@ A **notebook** or pen and paper is recommended.
 
 | Time | Session / Topic |
 | :--- | :--- |
-| **09:00 - 10:00** | Applications of Quantum Computing I: Quantum Chemistry |
-| **10:00 - 10:10** | Break |
-| **10:10 - 11:00** | Applications of Quantum Computing II: Quantum Machine Learning |
-| **11:00 - 11:10** | Break |
-| **11:10 - 12:00** | Applications of Quantum Computing III: Implementation issues of QML |
-| **12:00 - 13:00** | Lunch |
+| **09:00 - 09:50** | Applications of Quantum Computing I: Quantum Chemistry |
+| **09:50 - 10:00** | Break |
+| **10:00 - 10:50** | Applications of Quantum Computing II: Quantum Machine Learning |
+| **10:50 - 12:00** | Lunch at Taste |
+| **12:00 - 12:50** | Applications of Quantum Computing III: Implementation issues of QML |
+| **12:50 - 13:00** | Break |
 | **13:00 - 13:50** | Applications of Quantum Computing IV: Cryptography |
 | **13:50 - 14:00** | Break |
 | **14:00 - 15:30** | Practicing on applications in a real quantum computer in working groups |
