@@ -30,7 +30,7 @@ A **notebook** or pen and paper is recommended.
 | **09:10 - 09:20** | QSTAR Center for Quantum Computing and Applications in Norway|
 | **09:20 - 09:30** | Nordiquest |
 | **09:30 - 09:40** | Nordic Quantum |
-| **09:40 - 09:50** | [ENCCS and EuroHPC](slides/ENCCS intro QAS26.pptx) |
+| **09:40 - 09:50** | [ENCCS and EuroHPC](slides/ENCCS%20intro%20QAS26.pptx) |
 | **09:50 - 10:00** | Break |
 | **10:00 - 10:50** | Introduction to quantum computing I - Basic concepts |
 | **10:50 - 12:00** | Lunch at Taste|
@@ -83,7 +83,7 @@ episode.md
 
 ## Slides
 
-- [ENCCS and EuroHPC (09:40 - 09:50)](slides/ENCCS intro QAS26.pptx)
+- [ENCCS and EuroHPC (09:40 - 09:50)](slides/ENCCS%20intro%20QAS26.pptx)
 
 ## Useful references
 We will be using Qrisp as the python library for exercises and the IQM Resonance platform. IQM also provides useful tutorials for learning.
