@@ -54,7 +54,7 @@ A **notebook** or pen and paper is recommended.
 | **13:00 - 13:50** | Introduction to Quantum Cryptography |
 | **13:50 - 14:00** | Break |
 | **14:00 - 15:30** | Practicing on algorithms: Hamiltonian simulation |
-|  | [GitHub](https://github.com/ENCCS/eurohpc-qdevices) - [Tutorial](https://enccs.se/2026/10/short-tutorials/eurohpc-ju-quantum-devices-access/) - [HPC/QC](https://enccs.github.io/eurohpc-quantum-devices-access-hpcqc/) - [Zenodo](https://zenodo.org/records/17862354) |
+|  | [GitHub](https://github.com/ENCCS/eurohpc-qdevices) - [Tutorial](https://enccs.se/2026/10/short-tutorials/eurohpc-ju-quantum-devices-access/) - [HPC/QC](https://enccs.github.io/eurohpc-quantum-devices-access-hpcqc/) - [Zenodo](https://zenodo.org/records/17862354) - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) - [Primitives Atlas](https://elhamkashefi.github.io/primitives-atlas/#cards) |
 | **15:30 - 16:30** | Demo on sending encrypted messages with QKD |
 
 ### Wednesday 4th November — Advanced
